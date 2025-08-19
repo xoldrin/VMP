@@ -1,0 +1,13 @@
+name = "OctoLib"
+filename = "OctoLib-NEOFORGE-0.6.0.3+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/XMZB2Xe6/OctoLib-NEOFORGE-0.6.0.3%2B1.21.jar"
+hash-format = "sha512"
+hash = "cb78de64b211b8a539f779e27598b24c595ebc482dd7b4695543af0219ea78930f07646de06f701eb300e82f5b0a22fcbd78c64124177ef850ab214ca9cbbd0c"
+
+[update]
+[update.modrinth]
+mod-id = "RH2KUdKJ"
+version = "XMZB2Xe6"

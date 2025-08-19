@@ -415,6 +415,11 @@ hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "cff70029bd9a65e443f57ca9df575cbc56d24b30ac68c3daa1a8b7f8be304719"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "320fdfcfbfaab7c2b8c1286a520a148ee4bb6595aca2d93caf1a1ad75f7f7281"
 metafile = true
@@ -497,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "541c976d118e0020a7299949f8e17d289f88726f5c8f33b69cf5179a954bfa68"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "2214ea9951c660cf7adbb09e3402a2f70af3738a6f271fdad810a4a033da9c51"
 metafile = true
 
 [[files]]
