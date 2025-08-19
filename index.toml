@@ -60,6 +60,11 @@ hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
 metafile = true
 
 [[files]]
+file = "mods/apothic-cataclysm.pw.toml"
+hash = "6ed64ad042d5a67c1b742028a8465ad547d33611b80eaf22f0ff2d0b8435d2c3"
+metafile = true
+
+[[files]]
 file = "mods/apothic-enchanting.pw.toml"
 hash = "c9ab3b137182dfc93ca072473554907a4d2e49caf73f99ebc0222dadb716c0c9"
 metafile = true
@@ -216,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -397,6 +402,16 @@ metafile = true
 [[files]]
 file = "mods/lead-apple.pw.toml"
 hash = "c20f0faedc02af1a2207c873c569e7985286969e38556943b053cf9618c47064"
+metafile = true
+
+[[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "94110e0f3f951bff2c4895af50bb01f43cecb76967f79869b9400d05c37f1f8a"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "3d5d4c97ece8d1470d785fbffb44c1f17ca406931d08dd0cfd5d77745a956979"
 metafile = true
 
 [[files]]
