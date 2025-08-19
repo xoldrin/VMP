@@ -650,6 +650,11 @@ hash = "184d32c89a90ae8e36ccc8b314767ea591e2338bb21afeb0d9c3e9e11269d360"
 metafile = true
 
 [[files]]
+file = "mods/overloaded-armor-bar.pw.toml"
+hash = "21efe2d869c14907ab1d7e0563bcba29ba581cbdc279c3560abe23c84f199d28"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "4bf091a6947c83041ae6e9577c9877fbb77908ccf1652d212800132a9eba02ef"
 metafile = true
