@@ -180,6 +180,11 @@ hash = "472e53e7606b44a896803b81ac32540b867c10a52438ae436f1b41826901cab1"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "3990757ad1f7cc8a3b92ac5f3a5e219a5c80092240ce8a3ad4f1b9a7a46b3817"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7713cc82e1ea68848508ed5c1a1c7bd1a832c0bcc97c96865891b9a2a33aa825"
 metafile = true
