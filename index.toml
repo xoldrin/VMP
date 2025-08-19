@@ -205,6 +205,11 @@ hash = "1d09669cac9fad91c06b914728f25b93aa4114cc61e336b3d03ff7025c849ebc"
 metafile = true
 
 [[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "f999bf28a0b46d05697e322e6ee7557c1133729812966d1ef9450531032eae67"
+metafile = true
+
+[[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "4f3d43b696c5081e35eea3cee0588efd5f6b8d547b603b24645fe1edc0b0ba3e"
 metafile = true
