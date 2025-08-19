@@ -10,6 +10,11 @@ hash = "d76bf659b8581bfdba126802f99a71dc16d693554b71367a8a6aab0e46e95d02"
 metafile = true
 
 [[files]]
+file = "mods/additional-lanterns.pw.toml"
+hash = "f3fad3a610f221a5a275f515708d27746680cfba626f2d37f490b77cb34b5a4d"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "39a237218d0f04a95ff015eb8456fef816434e70f5d208420864391e659b06a5"
 metafile = true
@@ -422,6 +427,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "eb2afd63362317347778b495d84e68b18869d69a937bbb4a142c416f53fe8c16"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
 metafile = true
 
 [[files]]
