@@ -40,8 +40,18 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "f6b0270e42cdd96ee23cdd3e79280f2d1a91a1b13184b77912c1550600a20c3a"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "39a7bd09537300445729e9c1a01875cf63d5f0ea6568ca0f4d1566e39e0743d3"
+metafile = true
+
+[[files]]
+file = "mods/apothic-amendments-enchanting.pw.toml"
+hash = "40a878507b94e07dcd868b6c8d218e25339e9e9c3bc282c0b99bcb71da65d099"
 metafile = true
 
 [[files]]
