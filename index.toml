@@ -10,6 +10,16 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/beautiful-enchanted-books-mod-edition.pw.toml"
+hash = "cb262f9ba690b6d96791b69dca16cacffba6260f8a50664f48aac1cc10ab5387"
+metafile = true
+
+[[files]]
+file = "mods/beautiful-potions-mod-edition.pw.toml"
+hash = "0d2540615e4c7f0b1c538be53fa936c85f209f0c9e8b83783d037bee933b2d32"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
 metafile = true

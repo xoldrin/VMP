@@ -1,0 +1,13 @@
+name = "Beautiful Potions [MOD EDITION]"
+filename = "BTP-NeoForge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H3a6cFKr/versions/EJgNDcXd/BTP-NeoForge-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "cd9ae1bbf18e57766a6e164ae336c6dddaf0324aa66de7098f6d66d4eeceb54c61ae4a3abbc5df51078631e22aee255b104b66819503b5fd8415e2bea92f2813"
+
+[update]
+[update.modrinth]
+mod-id = "H3a6cFKr"
+version = "EJgNDcXd"
