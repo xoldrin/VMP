@@ -965,6 +965,11 @@ hash = "9e02b6effff99515b3d60f125fb1fb7ddbfd4ba0c522505737626f60aadb9b9e"
 metafile = true
 
 [[files]]
+file = "mods/villager-names.pw.toml"
+hash = "eb6493a160f157ae4d0f57edccf82036c8a3b514c56dacfe41f9c3fe72583396"
+metafile = true
+
+[[files]]
 file = "mods/warp-book.pw.toml"
 hash = "8018c097349838cda13d1485f864bbcb20ba437c1285dc9917751f0cb39f1faa"
 metafile = true
