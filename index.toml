@@ -400,6 +400,11 @@ hash = "5582a75f5fc8ab764567e7c3c450634ea1d599634b9c36a3b13455843114a982"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "b34be60d226edbb4b9bc136985a63c1aa064961354abb29f81db73e92797e9b3"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -445,6 +450,11 @@ hash = "567b00a7064f0a385782ca4f70441e82b112792936c1ff527536635a78a2afcf"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "8fb821696362916090187ec37c353f7fd6da70e83c0b493ec3d6e669934febb2"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
@@ -467,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "94110e0f3f951bff2c4895af50bb01f43cecb76967f79869b9400d05c37f1f8a"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "c016fe6af641627890403229e7062b51d24f09be33f1e732abde376afc1a80f1"
 metafile = true
 
 [[files]]
