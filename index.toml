@@ -680,6 +680,11 @@ hash = "920221401fac7abc0c2d76c8970ff036964eafec746808d22018106c037d815b"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "5ba9a417876ea4139a20bf9d89e6bab3521d27d5e6caca925f12b74127564eed"
+metafile = true
+
+[[files]]
 file = "mods/silent-gear.pw.toml"
 hash = "c4835a6375ddffba43f38342ec0e448363e45ead01bbe1b3c4e304733064c45f"
 metafile = true
@@ -761,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "287cc4856941e606fcaada93ca7cc1f0732bbc22e1d4db4e87254cb110dd6ca9"
+hash = "c9b678c71dc291f00432d5618372d903ed614d78e5d8ad9a7e69e8bb6240eb51"
 metafile = true
 
 [[files]]
