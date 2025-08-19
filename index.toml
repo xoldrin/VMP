@@ -465,6 +465,11 @@ hash = "0270a241e1d1c3c8e1ecda59aeaa5004771a57d46a4a470566cb7dd6d7e89c85"
 metafile = true
 
 [[files]]
+file = "mods/silents-gems.pw.toml"
+hash = "2db0dbaab6e788b1858d40393adf65e60edf069dc58b367e82a6ce16b5b797d4"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
 metafile = true
