@@ -265,6 +265,11 @@ hash = "468aa5d77980b1b47f5dea83623b0ef726eeee27425f30e4ce927ca0dcc569e4"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "d871406a93deda357df26730437e29f91a2e4f301e958653cd71df8d3d763408"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "9762a54b77cbe30d47a3b63ba937137ca4dc89b85cabba05c7e5f3a3d298bca3"
 metafile = true
