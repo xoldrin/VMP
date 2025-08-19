@@ -470,6 +470,11 @@ hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-chipped.pw.toml"
+hash = "33ff19e15d3eab2cf108508a9a455311fea71b4a713dc5b4c2b96e46b9327852"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "f70753b73b9baee1550e932231cdca1da45c4516c6b7b8763a2a164e0bf375ce"
 metafile = true
