@@ -420,6 +420,11 @@ hash = "d3b6da00a8b8d72523b695ce09433557b6501c78ed56b9adc96df34c6d2dbaf2"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "55d9e36fdc62a552eccf6c4acf42d5b5cf6e87a102836eb24f8784385bb8f82d"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "86c688ed4fbeb2ea114cf51c09e476d0f9c4bc4cf63d5b5b927dfc0f4f486718"
 metafile = true
