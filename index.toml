@@ -150,6 +150,11 @@ hash = "6ed663d777e63644eecee902587bfa71dff91eaf1ffd4ea1d5683cc4b1264fea"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "31052dd5c490071cf02e0aa34af9e7599ea4911f88275b26fff89b913441034b"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "ae84c67cf52d6936753720935032f162e4340ba2a291231b846908a00a4f9afd"
 metafile = true
@@ -652,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "3b36aff397c550acf34d042f7f33fa5a007b281a6240c80c5cbebfc1d3b8af7e"
 metafile = true
 
 [[files]]
