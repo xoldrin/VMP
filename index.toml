@@ -195,6 +195,11 @@ hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "3dfefb6553f990216152c10db67cf3421dcc633eb9ee0ea944d28fd2910c66bb"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "9e80e6f2a680b052f2a66ade20a5abbd98a0abbebde6f30472d6ae6b993e9464"
 metafile = true
@@ -465,6 +470,11 @@ hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "f70753b73b9baee1550e932231cdca1da45c4516c6b7b8763a2a164e0bf375ce"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-emi-integration.pw.toml"
 hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
 metafile = true
@@ -532,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "eb2afd63362317347778b495d84e68b18869d69a937bbb4a142c416f53fe8c16"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
 
 [[files]]
