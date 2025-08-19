@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "7cd10de618c7f46c1877d9d3e597699a7fcc02cf3982bba439ccbec95a37d0de"
+hash = "fbdd2d7171e9100806bd5db5f10240e7609550efeba69796e8765fbefaeed1fd"
 metafile = true
 
 [[files]]
@@ -641,12 +641,12 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "320fdfcfbfaab7c2b8c1286a520a148ee4bb6595aca2d93caf1a1ad75f7f7281"
+hash = "1941edbeb753f8bca309632f2cd8085373341227f59f2ce7c93f78e9e6b2b36c"
 metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "184d32c89a90ae8e36ccc8b314767ea591e2338bb21afeb0d9c3e9e11269d360"
+hash = "9892c42a00d17bde66e9ed9e6cff91d13988046bb4d634e26af4f0e0bf74f0ba"
 metafile = true
 
 [[files]]
@@ -882,6 +882,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "f7c58576ff1c8428310fa9150ab76b456890f1704d086f016f3daec103509938"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-neoforge.pw.toml"
+hash = "d77e4dc337b6090358c1ef01b0f99a8357e5279443e0e23e511de1be865c01c9"
 metafile = true
 
 [[files]]
