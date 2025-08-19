@@ -380,6 +380,11 @@ hash = "2219a1b4f53f8a96bf1e9827aa695e84ad9d53623f7fe40b88ccd260c732cc98"
 metafile = true
 
 [[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "d914387ae7d1a7e6c1e06aa3ba0ebf6fef7add8f336065ed9394fa50cc72596a"
+metafile = true
+
+[[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "68d96b63880db1937ba20afb6c37c3edcdfb82906d5b8f09ee8bd1909b6a4bbb"
 metafile = true
