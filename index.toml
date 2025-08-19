@@ -695,6 +695,11 @@ hash = "d528a4f8c501c7aa3d8f73542a647f6d799e273d61e1edf08356f15568f78fb4"
 metafile = true
 
 [[files]]
+file = "mods/stacked-blocks-supplementaries.pw.toml"
+hash = "426ca1e54ca7b989ec14adea0e8e10d9ecdf24d9b4d22c84877f88c9239d38be"
+metafile = true
+
+[[files]]
 file = "mods/stacked-blocks.pw.toml"
 hash = "f7c945187cfb35c231d10498c37fd0a35903783b0b20b67efc5aa0c67f66fc1e"
 metafile = true

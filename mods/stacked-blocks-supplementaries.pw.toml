@@ -1,0 +1,13 @@
+name = "Stacked Blocks: Supplementaries"
+filename = "stackedblockssupplementaries-25.05.06-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vgtM0kV7/versions/dvJySJJJ/stackedblockssupplementaries-25.05.06-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "407d6434ad2c4edacd339b43149ed85a68c5f083769de18b45446ad3ea614a091dc08ae9150256313086879fa0b32a5b96b29fc74c94dcc322fff2f9a63883be"
+
+[update]
+[update.modrinth]
+mod-id = "vgtM0kV7"
+version = "dvJySJJJ"
