@@ -185,6 +185,11 @@ hash = "8d3e669a813af2e685efafeca797f95ad8a99c344078e72d2ce0ee1273369bd8"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
+hash = "456dcdd6c4c172612713b59ebd871703b10aa00366cac0792d2d2da0951db2df"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
 metafile = true
