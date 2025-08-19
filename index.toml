@@ -190,6 +190,11 @@ hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
+file = "mods/deimos-fabric-forge-neoforge.pw.toml"
+hash = "1f0312a71f5d0852cd3d03213315295c768546d401f08157f5698985ad82e28f"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "ea9cbc526f22ba2faf653abc1b402643d3f211e86af347627311430faf48327f"
 metafile = true
@@ -322,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "b07bbd76636d50d623dc1c41d27ca42f5f7ba196e3e2a9c846add0ee10c26531"
+metafile = true
+
+[[files]]
+file = "mods/laser-bridges-doors.pw.toml"
+hash = "425d3b9b89992d7255edb4e439fdb8a1e9680650e521f68cb1163e806edba440"
 metafile = true
 
 [[files]]
