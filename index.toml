@@ -5,6 +5,11 @@ file = "README.md"
 hash = "4187f54440826b107a55c4b0250e21fb2129db04219477fe73a965a4955f1ab0"
 
 [[files]]
+file = "mods/addonslib.pw.toml"
+hash = "39a237218d0f04a95ff015eb8456fef816434e70f5d208420864391e659b06a5"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
@@ -167,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/lootjs.pw.toml"
 hash = "0005897f4acdac2a3900b69ae3cf52e4c5aa6d339b7f8cd60692f61fb4493f86"
+metafile = true
+
+[[files]]
+file = "mods/macaws-byg-bwg.pw.toml"
+hash = "472e53e7606b44a896803b81ac32540b867c10a52438ae436f1b41826901cab1"
 metafile = true
 
 [[files]]

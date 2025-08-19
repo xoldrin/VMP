@@ -1,0 +1,13 @@
+name = "Macaw's Oh The Biomes You'll Go / We've Gone"
+filename = "mcwbyg-neoforge-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s4B19O5h/versions/Xv69MOvZ/mcwbyg-neoforge-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "211a4a8a84cd9874688cb7b67e29f4f200b9399ddfb8c1cf0dba1fc2e9cfc743980a9499ad6d7486086f649b5a190b0b26d8534ba748a1dbede7b8362ad67359"
+
+[update]
+[update.modrinth]
+mod-id = "s4B19O5h"
+version = "Xv69MOvZ"
