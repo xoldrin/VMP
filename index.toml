@@ -600,6 +600,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/seed-delight.pw.toml"
+hash = "920221401fac7abc0c2d76c8970ff036964eafec746808d22018106c037d815b"
+metafile = true
+
+[[files]]
 file = "mods/silent-gear.pw.toml"
 hash = "c4835a6375ddffba43f38342ec0e448363e45ead01bbe1b3c4e304733064c45f"
 metafile = true
