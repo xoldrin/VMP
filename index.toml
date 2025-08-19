@@ -10,6 +10,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
+metafile = true
+
+[[files]]
 file = "mods/beautiful-enchanted-books-mod-edition.pw.toml"
 hash = "cb262f9ba690b6d96791b69dca16cacffba6260f8a50664f48aac1cc10ab5387"
 metafile = true
