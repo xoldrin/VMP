@@ -365,6 +365,16 @@ hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-mekanism-integration.pw.toml"
+hash = "23b71e77a235272d82dc23937f82311a188ef7ad5da63e1369283fea0257c489"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "541c976d118e0020a7299949f8e17d289f88726f5c8f33b69cf5179a954bfa68"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "efbf6335f63bbe36976d27d294c9b649ab9102b02957c76bd3680e83f71c5d57"
 metafile = true
