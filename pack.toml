@@ -1,0 +1,13 @@
+name = "vmp"
+author = "xoldrin"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a1b8ca3aa94ec2df20bafd9727c8c311ee609f12b437f07c35ab436aebae298d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.201"
