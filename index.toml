@@ -460,6 +460,11 @@ hash = "8fb821696362916090187ec37c353f7fd6da70e83c0b493ec3d6e669934febb2"
 metafile = true
 
 [[files]]
+file = "mods/krypton-foxified.pw.toml"
+hash = "e1a10365df01c18ff7633093b80d3a753d71f480a3ad474719ab6e204500007f"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
@@ -1002,11 +1007,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "d22f84a9928003c087d33012a9ac8f9d6b2fcf87b2178344e7680221f659db02"
-metafile = true
-
-[[files]]
-file = "mods/weather-storms-tornadoes.pw.toml"
-hash = "327874f4069160b54fbda8a318aa2975f185464d9cf4e5ce8638a3fba329a2b2"
 metafile = true
 
 [[files]]
