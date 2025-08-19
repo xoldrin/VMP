@@ -795,6 +795,11 @@ hash = "05fd60a86961b215f70ff466216926550292ae6ed8bba7baa7830d935d9e4096"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "1e690507e5762bb3179c19950d765e7aa06a2999cdf18eaa9db4e4ab478fb213"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
 metafile = true
