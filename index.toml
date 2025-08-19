@@ -190,6 +190,11 @@ hash = "3990757ad1f7cc8a3b92ac5f3a5e219a5c80092240ce8a3ad4f1b9a7a46b3817"
 metafile = true
 
 [[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "468aa5d77980b1b47f5dea83623b0ef726eeee27425f30e4ce927ca0dcc569e4"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7713cc82e1ea68848508ed5c1a1c7bd1a832c0bcc97c96865891b9a2a33aa825"
 metafile = true
