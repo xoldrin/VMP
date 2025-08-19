@@ -25,6 +25,11 @@ hash = "5594206fedc34eee3fbb11838581059d54e2e9b4ac7b92014cdf56e280f8b318"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "08f8c21e553fe134333ead574cac41030b73f85ad3a3f7701ec21312dc33b400"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
