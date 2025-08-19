@@ -270,6 +270,11 @@ hash = "d871406a93deda357df26730437e29f91a2e4f301e958653cd71df8d3d763408"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-curios.pw.toml"
+hash = "3a7ce2df47a9b6c03297457530338541b6b50b10f784cd560172d675ac61fb8e"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "9762a54b77cbe30d47a3b63ba937137ca4dc89b85cabba05c7e5f3a3d298bca3"
 metafile = true
