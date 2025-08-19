@@ -130,6 +130,11 @@ hash = "7cd10de618c7f46c1877d9d3e597699a7fcc02cf3982bba439ccbec95a37d0de"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "a7216dad68fe8cabfbdcced66ad94e1da20d23fe531e03022f877ffead92df50"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "6ed663d777e63644eecee902587bfa71dff91eaf1ffd4ea1d5683cc4b1264fea"
 metafile = true
@@ -407,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7713cc82e1ea68848508ed5c1a1c7bd1a832c0bcc97c96865891b9a2a33aa825"
+metafile = true
+
+[[files]]
+file = "mods/mmlib.pw.toml"
+hash = "59f033615895cd019f9fb168fa93590422c5050274630a8faec46460979a5156"
 metafile = true
 
 [[files]]
