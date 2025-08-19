@@ -110,6 +110,11 @@ hash = "2741b6724a6c7d625c1c9e647a8d20ab89cd4a3975c18706da30771754c00510"
 metafile = true
 
 [[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "a3b04a9264d646324d11c200635aa5ff314fbcd5f9777d182c6d587e2d3a5801"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
@@ -167,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "2219a1b4f53f8a96bf1e9827aa695e84ad9d53623f7fe40b88ccd260c732cc98"
 metafile = true
 
 [[files]]
