@@ -130,6 +130,11 @@ hash = "7cd10de618c7f46c1877d9d3e597699a7fcc02cf3982bba439ccbec95a37d0de"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "6ed663d777e63644eecee902587bfa71dff91eaf1ffd4ea1d5683cc4b1264fea"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "ae84c67cf52d6936753720935032f162e4340ba2a291231b846908a00a4f9afd"
 metafile = true
