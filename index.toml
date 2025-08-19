@@ -195,6 +195,11 @@ hash = "c1adf475a44eabbc58219fb6a5ab3359c1a3edb7c61a8df3160effe4c3f57823"
 metafile = true
 
 [[files]]
+file = "mods/corail-tombstone.pw.toml"
+hash = "502c986f85f05283728f88355a3fe0b77432ab5d12edb77ea7068707a6c5014a"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "fbdd2d7171e9100806bd5db5f10240e7609550efeba69796e8765fbefaeed1fd"
 metafile = true
