@@ -20,6 +20,11 @@ hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "2b7742247cc1876fc089ab01c7dc17e4db45b47ebfb244da8228377da73e0c77"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
 metafile = true
@@ -82,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "a6448a229fe0cb53a4042f8b16b41d1986316376ace55c8cf126cb61c29d417e"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
