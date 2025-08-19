@@ -440,6 +440,11 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "47de6174c2050b31efe0fd4c005cfae4bf99c15525d2a952969396b7e38ac3b6"
+metafile = true
+
+[[files]]
 file = "mods/littletiles.pw.toml"
 hash = "e5365f2e0eac12dc3ac1bdd847f063c74066f4da4da11abc6b6fc470005db9a7"
 metafile = true
