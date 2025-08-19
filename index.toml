@@ -725,6 +725,11 @@ hash = "1dfdb8e9f378eb558a3aa71fd7d69e7d911dd9cdd75373a9d4f767b900859f84"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "5bc8d37e62bda15261dd75de97b8c62df549ddc8f2fa9ad88ee21b00f77b5d70"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
