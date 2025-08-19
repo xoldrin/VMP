@@ -185,6 +185,11 @@ hash = "472e53e7606b44a896803b81ac32540b867c10a52438ae436f1b41826901cab1"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "702df8b679041c5f459da5a0dc456f70de336810bc69ff726d8c925bf484e99c"
+metafile = true
+
+[[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "494d362db9766b5cf594109dabc35c50d78c99699d68ebc87e0d6dd51e19c244"
 metafile = true
