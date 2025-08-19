@@ -930,6 +930,11 @@ hash = "4ba42e13f09ee4ea555e430aadc54b2d6e4ffa0ac2f0aebfa5a0542f193c5f47"
 metafile = true
 
 [[files]]
+file = "mods/wither-skeleton-tweaks.pw.toml"
+hash = "1e64fe8b0e6b3f7099ed41c1bbe1ec213e48e2c2c7372e130abcb59b3c6679ac"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9d76c3683cfea5c5976823a000eacc9944db9f097894356d2a029cf36642ffa4"
 metafile = true
