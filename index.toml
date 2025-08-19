@@ -390,6 +390,11 @@ hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
 metafile = true
 
 [[files]]
+file = "mods/just-mob-heads.pw.toml"
+hash = "87909f63d967ffe26cd2994a0addfb96bca50d1b3265fc35fe3174dc3e439800"
+metafile = true
+
+[[files]]
 file = "mods/just-player-heads.pw.toml"
 hash = "567b00a7064f0a385782ca4f70441e82b112792936c1ff527536635a78a2afcf"
 metafile = true
