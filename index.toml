@@ -205,6 +205,11 @@ hash = "a7216dad68fe8cabfbdcced66ad94e1da20d23fe531e03022f877ffead92df50"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "6ed663d777e63644eecee902587bfa71dff91eaf1ffd4ea1d5683cc4b1264fea"
 metafile = true
@@ -922,6 +927,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "d22f84a9928003c087d33012a9ac8f9d6b2fcf87b2178344e7680221f659db02"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "327874f4069160b54fbda8a318aa2975f185464d9cf4e5ce8638a3fba329a2b2"
 metafile = true
 
 [[files]]
