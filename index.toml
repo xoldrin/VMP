@@ -520,6 +520,11 @@ hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
 metafile = true
 
 [[files]]
+file = "mods/pineapple-delight.pw.toml"
+hash = "024ff443b1a5eb5fcac571606de5b175d6b1f8c4e0bb57ef7237a1d8292ba93b"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
 metafile = true
