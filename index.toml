@@ -40,6 +40,11 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -282,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "3dfefb6553f990216152c10db67cf3421dcc633eb9ee0ea944d28fd2910c66bb"
+metafile = true
+
+[[files]]
+file = "mods/gateways-to-eternity.pw.toml"
+hash = "3619b92c4290566f1f35830843e62f9b51c83e2e7cd67238b1591d13dd0c473a"
 metafile = true
 
 [[files]]
@@ -597,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/pineapple-delight.pw.toml"
 hash = "024ff443b1a5eb5fcac571606de5b175d6b1f8c4e0bb57ef7237a1d8292ba93b"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "c5ca38fd4e54c1c59f0caa0b696da20186eb6484432804012557a01af9948457"
 metafile = true
 
 [[files]]
