@@ -425,6 +425,11 @@ hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "152f6cfe8ee891ba80faa800dd3df3058be14882f9f8d07cb38eb6a6f96ece4b"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "cff70029bd9a65e443f57ca9df575cbc56d24b30ac68c3daa1a8b7f8be304719"
 metafile = true
