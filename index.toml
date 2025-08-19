@@ -420,6 +420,11 @@ hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-jei-integration.pw.toml"
+hash = "fd3e3dd73614b09899f5a445f989fd4f43c36a67e6a4c986f1263edbc5239944"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-mekanism-integration.pw.toml"
 hash = "23b71e77a235272d82dc23937f82311a188ef7ad5da63e1369283fea0257c489"
 metafile = true
