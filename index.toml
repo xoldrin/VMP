@@ -820,6 +820,11 @@ hash = "5bfdc2a3aa53eefc0a380b0e682ade53431b0bdee84b0d3e005a44f5040eeec9"
 metafile = true
 
 [[files]]
+file = "mods/sawmill.pw.toml"
+hash = "ff9d7f1ebe1d8eb936386c337bdcad0bd6fe44f7b1cbb98a39f93e4c9599a45b"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
