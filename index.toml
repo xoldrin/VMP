@@ -200,6 +200,11 @@ hash = "3990757ad1f7cc8a3b92ac5f3a5e219a5c80092240ce8a3ad4f1b9a7a46b3817"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "1d09669cac9fad91c06b914728f25b93aa4114cc61e336b3d03ff7025c849ebc"
+metafile = true
+
+[[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "4f3d43b696c5081e35eea3cee0588efd5f6b8d547b603b24645fe1edc0b0ba3e"
 metafile = true
