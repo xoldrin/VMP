@@ -200,6 +200,11 @@ hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
 
 [[files]]
+file = "mods/lead-apple.pw.toml"
+hash = "c20f0faedc02af1a2207c873c569e7985286969e38556943b053cf9618c47064"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
