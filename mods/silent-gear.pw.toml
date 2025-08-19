@@ -1,0 +1,13 @@
+name = "Silent Gear"
+filename = "silent-gear-1.21.1-neoforge-4.0.27.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/73mSSnCf/versions/U8kuubQl/silent-gear-1.21.1-neoforge-4.0.27.1.jar"
+hash-format = "sha512"
+hash = "d7092039b4666d94388ebcc1b55b1dd9e41cd2f0da1e0e587188bd54d76a1dcc64b23ba9098997c6f355ab281a5a07f1c61b010306f4734f065e1e9d76267b08"
+
+[update]
+[update.modrinth]
+mod-id = "73mSSnCf"
+version = "U8kuubQl"
