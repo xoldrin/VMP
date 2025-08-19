@@ -20,6 +20,11 @@ hash = "39a237218d0f04a95ff015eb8456fef816434e70f5d208420864391e659b06a5"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "b27998af6762060ac2a8c5dfddb015b3531aee83c50c94ca3ecf78d282f6f081"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "5594206fedc34eee3fbb11838581059d54e2e9b4ac7b92014cdf56e280f8b318"
 metafile = true
