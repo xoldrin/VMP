@@ -35,6 +35,11 @@ hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
@@ -97,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "a69a8ba0d9e52361b1853cf59b2cf2a38b668b1d508a565f315f2fa30407f546"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
