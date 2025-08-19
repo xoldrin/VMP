@@ -280,6 +280,11 @@ hash = "ea9cbc526f22ba2faf653abc1b402643d3f211e86af347627311430faf48327f"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "024113276649fed257cd98d2e3ac71c0dd08d84cef05a043b9b9ac23a8792423"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
