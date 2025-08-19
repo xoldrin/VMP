@@ -55,6 +55,11 @@ hash = "bb6cbf8efc905cc6cd36d960cab4042d91f3038abb264e1676b1ef594cbc8b4e"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "9a9d6bf3715b20cbf83b967e4dd8b77972d1256e52a7b1c2bbfa4122f5acc931"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "586341de7078015cea16ffaf8e2e198a16c43b306d70bc439a15ea0298f9d3cb"
 metafile = true
@@ -92,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
@@ -472,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "541c976d118e0020a7299949f8e17d289f88726f5c8f33b69cf5179a954bfa68"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
