@@ -35,6 +35,11 @@ hash = "0d2540615e4c7f0b1c538be53fa936c85f209f0c9e8b83783d037bee933b2d32"
 metafile = true
 
 [[files]]
+file = "mods/better-beds.pw.toml"
+hash = "8071f5bd344fcf5c1ecfd4dbf8830fcab70052931fdf17f372356df2e5bbb7b5"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "06fc85c611116e191fb968f261b4d39430260c823334d21ddefbdd0853c51011"
 metafile = true
