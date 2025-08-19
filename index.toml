@@ -420,6 +420,11 @@ hash = "2219a1b4f53f8a96bf1e9827aa695e84ad9d53623f7fe40b88ccd260c732cc98"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "26037d30e6793c772f46bbd1f4a6bc1b07806a7f611fe9c42f21a95902a4d577"
+metafile = true
+
+[[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
 hash = "d914387ae7d1a7e6c1e06aa3ba0ebf6fef7add8f336065ed9394fa50cc72596a"
 metafile = true
