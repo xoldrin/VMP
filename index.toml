@@ -255,6 +255,11 @@ hash = "1f0312a71f5d0852cd3d03213315295c768546d401f08157f5698985ad82e28f"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "db153992e71c2c1ca7643ad93d11f1276cada2843879cd01909abef2f2ed9df9"
+metafile = true
+
+[[files]]
 file = "mods/dmr.pw.toml"
 hash = "f0679e929b7ef3e7bdd4bd901262a7d1ea176662913823f307542431184941f3"
 metafile = true
@@ -741,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "989b2aeb18f4004fb9b7932951de4b38ffa0fc6bf5360ac32ffe9af08391d04d"
+hash = "cedad7783a39b743dee74a7bb4035dc865e9e85c656468314b642c55f1f0e97d"
 metafile = true
 
 [[files]]
