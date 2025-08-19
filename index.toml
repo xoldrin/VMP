@@ -265,6 +265,11 @@ hash = "36899ae409d7c9bf4a5b322328f3eba6c8de4812a4f8594140a4953b05d62f88"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "5280e0bcfa648658c572b9ffa12ff5e39374923b30c732d3ceff4ae7ed9228ff"
+metafile = true
+
+[[files]]
 file = "mods/dmr.pw.toml"
 hash = "f0679e929b7ef3e7bdd4bd901262a7d1ea176662913823f307542431184941f3"
 metafile = true
