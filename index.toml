@@ -175,6 +175,11 @@ hash = "0005897f4acdac2a3900b69ae3cf52e4c5aa6d339b7f8cd60692f61fb4493f86"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "c6887c071d6515a39aeb915429304ea9fdae876decde3ad66062c9ba779b16b4"
+metafile = true
+
+[[files]]
 file = "mods/macaws-byg-bwg.pw.toml"
 hash = "472e53e7606b44a896803b81ac32540b867c10a52438ae436f1b41826901cab1"
 metafile = true
