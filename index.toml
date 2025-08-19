@@ -30,6 +30,11 @@ hash = "0d2540615e4c7f0b1c538be53fa936c85f209f0c9e8b83783d037bee933b2d32"
 metafile = true
 
 [[files]]
+file = "mods/blockui.pw.toml"
+hash = "06fc85c611116e191fb968f261b4d39430260c823334d21ddefbdd0853c51011"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "293ec22e4e8342a9bd0f338505a14e3794b44cd7ca1e5278a86f41f99c69a3af"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "7cd10de618c7f46c1877d9d3e597699a7fcc02cf3982bba439ccbec95a37d0de"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "ea9cbc526f22ba2faf653abc1b402643d3f211e86af347627311430faf48327f"
 metafile = true
 
 [[files]]
@@ -120,6 +130,11 @@ hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
 
 [[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "68d96b63880db1937ba20afb6c37c3edcdfb82906d5b8f09ee8bd1909b6a4bbb"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5dc059422613b5645cb00e32d3bfd53de428c4939113d11ce2c844cb54165da6"
 metafile = true
@@ -167,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "eb2afd63362317347778b495d84e68b18869d69a937bbb4a142c416f53fe8c16"
 metafile = true
 
 [[files]]
