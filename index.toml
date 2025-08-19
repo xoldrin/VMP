@@ -250,6 +250,11 @@ hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "b07bbd76636d50d623dc1c41d27ca42f5f7ba196e3e2a9c846add0ee10c26531"
+metafile = true
+
+[[files]]
 file = "mods/lead-apple.pw.toml"
 hash = "c20f0faedc02af1a2207c873c569e7985286969e38556943b053cf9618c47064"
 metafile = true
@@ -512,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/reliquified-ars-nouveau.pw.toml"
 hash = "6d718861ccd271301e54dba5c461e5b9105abaafc7c85e3b119dd2fc71b161b8"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-l-ender-s-cataclysm.pw.toml"
+hash = "ff5afd5570a5a3d921c7764d0c64f82eb0c87c7e2e3db3e53aa45d6b6b4edc47"
 metafile = true
 
 [[files]]
