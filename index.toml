@@ -275,6 +275,11 @@ hash = "9762a54b77cbe30d47a3b63ba937137ca4dc89b85cabba05c7e5f3a3d298bca3"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-lasers.pw.toml"
+hash = "83c1942ea54e4cfab71f770b6e5755840d2b202f9cbf6226bf03a45e7d514b31"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-tools.pw.toml"
 hash = "7162513509d9de3ed68dddc437352e0ab3107cbfe104b576ac7f69e4477af219"
 metafile = true
