@@ -1,0 +1,13 @@
+name = "Stacked Blocks: Farmer's Delight"
+filename = "stackedblocksfarmersdelight-25.02.13-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQlQFBH9/versions/khmHJRfC/stackedblocksfarmersdelight-25.02.13-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "ab54c806a46b51ed3a1758a578a5a8eb32a37d626292ba605870c785bd84e7c549d7a823cbccace3b46d41f785d75cfb2c4175b39117711ec8abd12e3fa25bbd"
+
+[update]
+[update.modrinth]
+mod-id = "LQlQFBH9"
+version = "khmHJRfC"
