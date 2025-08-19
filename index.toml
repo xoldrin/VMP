@@ -80,6 +80,11 @@ hash = "c51f5bc71fff2b0df7420b1c3df9f68cadb2572f6d8df239734db83c186b6715"
 metafile = true
 
 [[files]]
+file = "mods/barbeques-delight-forge.pw.toml"
+hash = "ae63e4f67427755b231839f860c21db3737d8aae799e7d2677e756271294238c"
+metafile = true
+
+[[files]]
 file = "mods/beautiful-enchanted-books-mod-edition.pw.toml"
 hash = "cb262f9ba690b6d96791b69dca16cacffba6260f8a50664f48aac1cc10ab5387"
 metafile = true
