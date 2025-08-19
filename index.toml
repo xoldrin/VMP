@@ -50,11 +50,6 @@ hash = "39a7bd09537300445729e9c1a01875cf63d5f0ea6568ca0f4d1566e39e0743d3"
 metafile = true
 
 [[files]]
-file = "mods/apothic-amendments-enchanting.pw.toml"
-hash = "40a878507b94e07dcd868b6c8d218e25339e9e9c3bc282c0b99bcb71da65d099"
-metafile = true
-
-[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
 metafile = true
@@ -72,11 +67,6 @@ metafile = true
 [[files]]
 file = "mods/apothic-spawners.pw.toml"
 hash = "f8a652602e80477b83520fff4b68ea7195d575ade70d381b3a0ec28e0a13e545"
-metafile = true
-
-[[files]]
-file = "mods/apothic-supplementaries-enchanting.pw.toml"
-hash = "44d65382381146650c9bfc50373609733f372cb43679b9a6852a2da1474b59bc"
 metafile = true
 
 [[files]]
