@@ -375,6 +375,11 @@ hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
 
 [[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "8860fcec1f5f58e201c5a2454a404fa0d8231dc417c5b174f0f3df17aeacadb6"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "2219a1b4f53f8a96bf1e9827aa695e84ad9d53623f7fe40b88ccd260c732cc98"
 metafile = true
