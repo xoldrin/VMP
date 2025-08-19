@@ -805,6 +805,11 @@ hash = "9e02b6effff99515b3d60f125fb1fb7ddbfd4ba0c522505737626f60aadb9b9e"
 metafile = true
 
 [[files]]
+file = "mods/warp-book.pw.toml"
+hash = "8018c097349838cda13d1485f864bbcb20ba437c1285dc9917751f0cb39f1faa"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "d22f84a9928003c087d33012a9ac8f9d6b2fcf87b2178344e7680221f659db02"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Warp Book"
+filename = "warp_book-1.21-3.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc8f67a9bfcb1891d171049794b258b7b74c2f20"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5636010
+project-id = 71869
