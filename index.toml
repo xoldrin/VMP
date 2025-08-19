@@ -70,6 +70,11 @@ hash = "f8a652602e80477b83520fff4b68ea7195d575ade70d381b3a0ec28e0a13e545"
 metafile = true
 
 [[files]]
+file = "mods/apothic-supplementaries-enchanting.pw.toml"
+hash = "44d65382381146650c9bfc50373609733f372cb43679b9a6852a2da1474b59bc"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
