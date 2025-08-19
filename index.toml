@@ -545,6 +545,11 @@ hash = "68d96b63880db1937ba20afb6c37c3edcdfb82906d5b8f09ee8bd1909b6a4bbb"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "caa3e2282daef2c96ca71b329e07453d904aa338026e274c362432512b0129ca"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "b5be9033308bb88924ddbc0eb95011a6ad1674099f0db976ab5e05a28afc4971"
 metafile = true
