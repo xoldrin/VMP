@@ -280,6 +280,11 @@ hash = "7162513509d9de3ed68dddc437352e0ab3107cbfe104b576ac7f69e4477af219"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-unleashed.pw.toml"
+hash = "79b37f76ff4383c1b574a1d87555d9ab5fccab389b77907b4318a7a5304d6065"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "c0ab086ff0d8dcdc92545774d1ae9ff72f19e32dff2867aabdb176cac6ed8302"
 metafile = true
