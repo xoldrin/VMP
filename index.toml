@@ -5,6 +5,11 @@ file = "README.md"
 hash = "4187f54440826b107a55c4b0250e21fb2129db04219477fe73a965a4955f1ab0"
 
 [[files]]
+file = "mods/actually-additions.pw.toml"
+hash = "d76bf659b8581bfdba126802f99a71dc16d693554b71367a8a6aab0e46e95d02"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "39a237218d0f04a95ff015eb8456fef816434e70f5d208420864391e659b06a5"
 metafile = true
@@ -362,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "86c688ed4fbeb2ea114cf51c09e476d0f9c4bc4cf63d5b5b927dfc0f4f486718"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
 metafile = true
 
 [[files]]
