@@ -300,6 +300,11 @@ hash = "c0ab086ff0d8dcdc92545774d1ae9ff72f19e32dff2867aabdb176cac6ed8302"
 metafile = true
 
 [[files]]
+file = "mods/mekanismmoremodules.pw.toml"
+hash = "16b3b0921b5a94a9e7d3b6bd7f6aca4c5547785fedd14f74c925de6450c98fc9"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "7713cc82e1ea68848508ed5c1a1c7bd1a832c0bcc97c96865891b9a2a33aa825"
 metafile = true
