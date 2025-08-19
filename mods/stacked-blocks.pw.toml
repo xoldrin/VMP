@@ -1,0 +1,13 @@
+name = "Stacked Blocks"
+filename = "stackedblocks-25.02.13-1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UYrNpKJN/versions/3kRZPPGM/stackedblocks-25.02.13-1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "09e03e2e3d5ec6e469cee1e2fce7d3fbc6eac92219d95331104cacc2741d8935f997f4f2677530101953f252a8f6ea70459180acb5c6ca070189e4fbaf92ded6"
+
+[update]
+[update.modrinth]
+mod-id = "UYrNpKJN"
+version = "3kRZPPGM"
