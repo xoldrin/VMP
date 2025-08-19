@@ -255,11 +255,6 @@ hash = "ea9cbc526f22ba2faf653abc1b402643d3f211e86af347627311430faf48327f"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
@@ -750,11 +745,6 @@ hash = "f70753b73b9baee1550e932231cdca1da45c4516c6b7b8763a2a164e0bf375ce"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage-emi-integration.pw.toml"
-hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
-metafile = true
-
-[[files]]
 file = "mods/refined-storage-jei-integration.pw.toml"
 hash = "fd3e3dd73614b09899f5a445f989fd4f43c36a67e6a4c986f1263edbc5239944"
 metafile = true
@@ -922,11 +912,6 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "de4e42a8d1496f13ddd6c54f291e87e0e802c0deb08ef37daf8d2887c8657ee3"
-metafile = true
-
-[[files]]
-file = "mods/tmrv.pw.toml"
-hash = "923dd26fd6e03736046cd5e449a27552ac077348bc96f14cea54fcb4949f2d35"
 metafile = true
 
 [[files]]
