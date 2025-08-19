@@ -435,6 +435,11 @@ hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "287cc4856941e606fcaada93ca7cc1f0732bbc22e1d4db4e87254cb110dd6ca9"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "f7c58576ff1c8428310fa9150ab76b456890f1704d086f016f3daec103509938"
 metafile = true
