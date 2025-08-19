@@ -3,11 +3,11 @@ filename = "silentgems-1.21.1-neoforge-5.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Y036wakZ/versions/IO7pPIwZ/silentgems-1.21.1-neoforge-5.1.2.jar"
-hash-format = "sha512"
-hash = "0fefca2b9bb68a9605586fdfcee2f51b6aeafcaa87bdcb28a38622c5a711b48bc1f0276345b4f38ab48390b12e29f46da3b9386e7bdd3ad3bfbbf55168fdc792"
+hash-format = "sha1"
+hash = "9e0b7dbad583cee27630fe286edaf2468979104f"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "Y036wakZ"
-version = "IO7pPIwZ"
+[update.curseforge]
+file-id = 6765206
+project-id = 220311

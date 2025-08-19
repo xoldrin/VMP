@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/silents-gems.pw.toml"
-hash = "2db0dbaab6e788b1858d40393adf65e60edf069dc58b367e82a6ce16b5b797d4"
+hash = "ea5a6be73b1e68c1d678956ab48305b7728c7881aef505c8d01857e86b7f6373"
 metafile = true
 
 [[files]]
