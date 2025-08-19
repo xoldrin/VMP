@@ -510,6 +510,11 @@ hash = "2214ea9951c660cf7adbb09e3402a2f70af3738a6f271fdad810a4a033da9c51"
 metafile = true
 
 [[files]]
+file = "mods/reliquified-ars-nouveau.pw.toml"
+hash = "6d718861ccd271301e54dba5c461e5b9105abaafc7c85e3b119dd2fc71b161b8"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
