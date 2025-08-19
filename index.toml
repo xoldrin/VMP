@@ -40,8 +40,23 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "39a7bd09537300445729e9c1a01875cf63d5f0ea6568ca0f4d1566e39e0743d3"
+metafile = true
+
+[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "1e1f084a9466d9022785468c8cc0ae295d325fe0edae9550357acb1336f77570"
+metafile = true
+
+[[files]]
+file = "mods/apothic-enchanting.pw.toml"
+hash = "c9ab3b137182dfc93ca072473554907a4d2e49caf73f99ebc0222dadb716c0c9"
+metafile = true
+
+[[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "f8a652602e80477b83520fff4b68ea7195d575ade70d381b3a0ec28e0a13e545"
 metafile = true
 
 [[files]]
@@ -611,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
+hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
 
 [[files]]
